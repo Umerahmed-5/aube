@@ -1,0 +1,26 @@
+@import "tailwindcss";
+body{
+    background:url("/mountains-4420690_1280 1.png") ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+.container{
+    background: linear-gradient(#91ACC9 ,#D3E3FE ,#C9A6D1);
+    width:;
+
+}
+.container2{
+    background: linear-gradient(#C9A6D1, #F3D1D3, #C9A6D1 ,#708AFF);
+}
+.container3{
+    background: linear-gradient(#708AFF,#C9A6D1,#F3D1D3,#595AB9);
+}
+.container4{
+    background: linear-gradient(#595AB9, #97AEFB ,#A089E0);
+}
+.container5{
+    background: linear-gradient( #A089E0, #6B87DE);
+}
